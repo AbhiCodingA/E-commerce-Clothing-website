@@ -1,5 +1,5 @@
 # Clothing-website   
-# This app is coded using HTML ,CSS and  js
+
 1. **User-Friendly Navigation**:
    - Ensure easy navigation with clear categories, filters, and search functionality.
    - Customers should find it effortless to locate clothing items they're interested in.
