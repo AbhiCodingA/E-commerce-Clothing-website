@@ -14,7 +14,7 @@
 
 4. **Mobile Optimization**:
    - Optimize the website for mobile devices to cater to users who shop on smartphones and tablets.
-   - Responsive design ensures a seamless experience across different screen sizes.
+   - Responsive design ensures a seamless experience across different screen sizes..
 
 5. **Secure Payment Options**:
    - Implement secure payment gateways to protect customers' financial data.
